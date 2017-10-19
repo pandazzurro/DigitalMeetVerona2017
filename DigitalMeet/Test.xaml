@@ -9,7 +9,7 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-        <TextBlock Text="Blocco test"
+        <TextBlock Text="Blocco test da web"
                    VerticalAlignment="Center"
                    HorizontalAlignment="Center"/>
     </Grid>
