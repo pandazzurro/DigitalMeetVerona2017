@@ -9,5 +9,8 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
+        <TextBlock Text="Blocco test"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Center"/>
     </Grid>
 </Page>
